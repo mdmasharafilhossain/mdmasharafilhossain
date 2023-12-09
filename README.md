@@ -3,7 +3,7 @@
 
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmasharafilhossain&theme=algolia&hide_border=true&exclude_days=Wed)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmasharafilhossain&theme=algolia&hide_border=true&exclude_days=Wed&card_width=600)](https://git.io/streak-stats)
 
 
 ## 📊Summary Card
