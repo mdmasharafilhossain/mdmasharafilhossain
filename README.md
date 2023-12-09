@@ -1,7 +1,12 @@
 ### Hi there 👋
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mdmasharafilhossain/mdmasharafilhossain/main/Images/cover.png.png)
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mdmasharafilhossain/mdmasharafilhossain/main/Images/cover-final.png.png)
 
-# 📊Summary Card
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdmasharafilhossain&theme=algolia&hide_border=true&exclude_days=Wed)](https://git.io/streak-stats)
+
+
+## 📊Summary Card
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmasharafilhossain&theme=algolia)
