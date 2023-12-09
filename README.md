@@ -26,6 +26,106 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmasharafilhossain&theme=algolia&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmasharafilhossain&theme=algolia)
 
+
+# 💡My Projects
+
+## 1. Newspaper Website 
+
+
+### Features
+
+- You can show many article with some details like image,category and category name
+- By clicking the button you can full details of the article
+- when you Login you can show the successful massage for your  entering
+- you can also see the error message to find the problem
+- After Log In you can access all sections
+- You can show our Service  information
+- This is secure website because no one access your id
+- You can know our customer review
+- You Can add article in our database
+- You can show your photo and name in navbar section after login
+- You can also book premium service for reading our premium special article from Our website
+- You can see your added article in my article section
+- you can see all of our users number
+
+### 🔗 Links
+
+- live site link : https://newspaper-d448d.web.app/
+- client side code link : https://github.com/mdmasharafilhossain/newspaper-website
+- server side code link : https://github.com/mdmasharafilhossain/newspaper-website-server
+
+### Technology use
+- HTML 
+- Tailwind 
+- React 
+- Node.js
+- Mongodb
+
+## 2. Tour and Travel website
+
+
+### Features
+
+- You can show many card with some details like image,category and category name
+- By clicking the button you can full details of the card
+- when you Login you can show the successful massage for your  entering
+- you can also see the error message to find the problem
+- After Log In you can access all sections
+- You can show our Service detail information
+- This is secure website because no one access your id
+- You can know our customer review
+- You Can add Service in our database
+- You can show your photo and name in navbar section after login
+- You can also book service from Our website
+
+### 🔗 Links
+
+- live site link : https://travel-and-tour-86fbe.web.app/
+- client side code link :  https://github.com/Porgramming-Hero-web-course/b8a11-client-side-mdmasharafilhossain
+- server side code link : https://github.com/Porgramming-Hero-web-course/b8a11-server-side-mdmasharafilhossain
+
+
+### Technology use
+- HTML 
+- Tailwind 
+- React 
+- Node.js
+- Mongodb
+
+
+## 3. Tech Shop Website
+  
+### Features
+
+- You can show many card with some details like image,category and category name
+- By clicking the button you can full details of the card
+- when you Login you can show the successful massage for your  entering
+- you can also see the error message to find the problem
+- After Log In you can access all sections
+- You can show our Service detail information
+- This is secure website because no one access your id
+- You can know our customer review
+- You Can add Service in our database
+- You can show your photo and name in navbar section after login
+- You can also book service from Our website
+- you can buy anything easily in our website
+
+### 🔗 Links
+
+- live site link : https://brand-shop-a6c5c.web.app
+- client side code link :  https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-mdmasharafilhossain
+- server side code link : https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-mdmasharafilhossain 
+
+
+
+### Technology use
+- HTML 
+- Tailwind 
+- React 
+- Node.js
+- Mongodb
+
+
 <!--
 **mdmasharafilhossain/mdmasharafilhossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
