@@ -81,8 +81,8 @@
 ### 🔗 Links
 
 - live site link : https://travel-and-tour-86fbe.web.app/
-- client side code link :  https://github.com/Porgramming-Hero-web-course/b8a11-client-side-mdmasharafilhossain
-- server side code link : https://github.com/Porgramming-Hero-web-course/b8a11-server-side-mdmasharafilhossain
+- client side code link : https://github.com/mdmasharafilhossain/tour-and-travel-client
+- server side code link :https://github.com/mdmasharafilhossain/tour-and-travel-server
 
 
 ### Technology use
@@ -113,8 +113,8 @@
 ### 🔗 Links
 
 - live site link : https://brand-shop-a6c5c.web.app
-- client side code link :  https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-mdmasharafilhossain
-- server side code link : https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-mdmasharafilhossain 
+- client side code link : https://github.com/mdmasharafilhossain/tech-shop-web
+- server side code link : https://github.com/mdmasharafilhossain/tech-shop-web-server
 
 
 
