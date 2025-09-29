@@ -2,19 +2,43 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mdmasharafilhossain/mdmasharafilhossain/main/Images/cover-final.png.png)
 
 # 🎯Current Focus 
-- 🔭 I’m currently working on developing a e-commerce platform using the MERN stack.  Focusing on enhancing user experience and implementing secure payment gateways. 
-- 🌱 I’m currently learning more about JavaScript,Next.js and react. Also try to explore Redux and Mongoose. 
-- 👯 I’m looking to collaborate on open-source projects of web development, exploring ways to create smarter applications within the MERN stack. 
-- 🤔 I’m looking for help with  optimizing database queries and improving overall application performance 
+- 🔭 I’m currently working on building scalable web applications, including an e-commerce platform and a courier management system, using the MERN stack, Next.js, and TypeScript. 
+- 🌱 I’m currently learning advanced Next.js, Redux, and PostgreSQL, while deepening my expertise in backend optimization and system architecture. 
+- 👯 I’m looking to collaborate on open-source projects involving full-stack development, API integrations, and modern web solutions.
+- 🤔 I’m looking for help with optimizing complex database queries, implementing microservices, and enhancing application performance at scale. 
 
 # 💻 Technology I know:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white" alt="DaisyUI"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" alt="Vite"/>
 
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+
+  <!-- Databases & ORM -->
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white" alt="Mongoose"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 
 # 🔥 Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=mdmasharafilhossain&theme=algolia&hide_border=true&card_width=700)](https://git.io/streak-stats)
-
 
 # 📊Summary Card
 
