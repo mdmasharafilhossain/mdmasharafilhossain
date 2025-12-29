@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mdmasharafilhossain/mdmasharafilhossain/main/Images/cover-final.png.png)
+![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mdmasharafilhossain/mdmasharafilhossain/main/Images/cover-now.png)
 
 # 🎯Current Focus 
 - 🔭 I’m currently working on building scalable web applications, including an e-commerce platform and a courier management system, using the MERN stack, Next.js, and TypeScript. 
