@@ -50,15 +50,25 @@
 # 📊Summary Card
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmasharafilhossain&theme=algolia" width="500"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmasharafilhossain&theme=algolia&utcOffset=8" width="500"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmasharafilhossain&theme=algolia" width="500"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmasharafilhossain&theme=algolia&utcOffset=8" width="500"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmasharafilhossain&theme=algolia" width="1000"/>
