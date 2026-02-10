@@ -42,7 +42,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmasharafilhossain&show_icons=true&theme=algolia)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmasharafilhossain&theme=react-dark)
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mdmasharafilhossain&theme=github-dark" 
+  width="800"
+/>
 
 
 
