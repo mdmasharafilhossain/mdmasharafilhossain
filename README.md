@@ -42,10 +42,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdmasharafilhossain&show_icons=true&theme=algolia)
 
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mdmasharafilhossain&theme=github-dark" 
-  width="800"
-/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmasharafilhossain&theme=react-dark)
 
 
 
@@ -53,12 +50,19 @@
 # 📊Summary Card
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmasharafilhossain&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmasharafilhossain&theme=algolia)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mdmasharafilhossain&theme=algolia" width="500"/>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmasharafilhossain&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmasharafilhossain&theme=algolia&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmasharafilhossain&theme=algolia)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdmasharafilhossain&theme=algolia" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdmasharafilhossain&theme=algolia&utcOffset=8" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdmasharafilhossain&theme=algolia" width="1000"/>
+</p>
 
 
 
