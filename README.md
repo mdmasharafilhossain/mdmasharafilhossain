@@ -47,49 +47,80 @@ that help me become a better software engineer.
 
 # 💻 Technology Stack
 
-<p align="center">
+<div align="center">
 
-### Frontend
+### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/next.js-black?style=flat&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/react%20query-FF4154?style=flat&logo=reactquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/daisyui-5A0EF8?style=flat&logo=daisyui&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+</div>
 
-### Backend
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</div>
 
-### Mobile
+### 📱 Mobile
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</div>
 
-### Database & ORM
+### 🗄️ Database & ORM
 
-<img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongoose-%23880000.svg?style=flat&logo=mongoose&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/> -->
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</div>
 
-### Tools
+### 🛠️ Tools
 
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</div>
 
-</p>
+</div>
+
+### 🛠️ Tools & Platforms
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 10px 0;">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub"/>
+  <!-- <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"/> -->
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</div>
+
+<!-- ### 📚 Learning
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; margin: 10px 0;">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+</div> -->
+
+</div>
 
 ---
 
@@ -147,11 +178,11 @@ that help me become a better software engineer.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/mdmashrafilhossain22/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://github.com/mdmasharafilhossain">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -162,3 +193,4 @@ that help me become a better software engineer.
 </p>
 
 ---
+
